@@ -1,3 +1,5 @@
 [alias]
   diffc = diff --cached
   st = status
+[push]
+  default = simple
